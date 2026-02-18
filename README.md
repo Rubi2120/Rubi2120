@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-!Hi, I’m Rubi, your friendly bio explorer 🧬
+I’m Rubi, your friendly bio explorer 🧬
 Reach me at: rubimarch201@gmail.com
 I’m an undergraduate genomics student at UNAM, Juriquilla, Querétaro. 
 I’m passionate about liver disease and cancer, especially how the metabolic environment  affects disease progression.
